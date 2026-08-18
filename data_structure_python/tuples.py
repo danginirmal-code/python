@@ -94,7 +94,7 @@ tpl_dict = {
     (4, 5): 6,
     (7, 8): 9
 }
-print(tpl_dict)
+print(tpl_dict[(1, 2)])
 
 def min_in_tuple(tpl):
     return min(tpl)
