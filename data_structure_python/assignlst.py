@@ -48,7 +48,7 @@ students = [
 sorted_students=sorted(students,key=lambda x:x['score'],reverse=True)
 print("Sorted students by score in descending order:")
 for student in sorted_students:
-    print(student)
+    print(student["name"])
 
 ## Transpose matrix
 def transpose_matrix(matrix):
