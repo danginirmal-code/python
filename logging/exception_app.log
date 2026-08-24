@@ -1,0 +1,24 @@
+2026-08-24 15:41:19,393 - exception_logger - ERROR - An exception occurred
+Traceback (most recent call last):
+  File "C:\Users\dangi\OneDrive\Desktop\python\logging\log.py", line 122, in log_exception
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2026-08-24 15:43:39,449 - exception_logger - ERROR - An exception occurred
+Traceback (most recent call last):
+  File "C:\Users\dangi\OneDrive\Desktop\python\logging\log.py", line 122, in log_exception
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2026-08-24 15:46:37,321 - exception_logger - ERROR - An exception occurred
+Traceback (most recent call last):
+  File "C:\Users\dangi\OneDrive\Desktop\python\logging\log.py", line 122, in log_exception
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
+2026-08-24 15:50:08,383 - exception_logger - ERROR - An exception occurred
+Traceback (most recent call last):
+  File "C:\Users\dangi\OneDrive\Desktop\python\logging\log.py", line 122, in log_exception
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero
